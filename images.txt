@@ -7,6 +7,5 @@
 #quay.io/argoproj/argocd:v2.11.3
 #ghcr.io/dexidp/dex:v2.38.0
 
-clickvisual/clickvisual:latest
-busyboxbusybox
+prom/prometheus:main
 
