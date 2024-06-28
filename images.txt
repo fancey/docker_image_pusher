@@ -4,16 +4,9 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/amd64 xiaoyaliu/alist
-quay.io/argoproj/argocd:v2.11.3
-ghcr.io/dexidp/dex:v2.38.0
-redis:7.0.14-alpine
-goharbor/harbor-log:v2.8.2
-goharbor/registry-photon:v2.8.2
-goharbor/harbor-registryctl:v2.8.2
-goharbor/harbor-core:v2.8.2
-goharbor/harbor-db:v2.8.2
-goharbor/harbor-portal:v2.8.2
-goharbor/harbor-jobservice:v2.8.2
-goharbor/redis-photon:v2.8.2
-goharbor/nginx-photon:v2.8.2
+#quay.io/argoproj/argocd:v2.11.3
+#ghcr.io/dexidp/dex:v2.38.0
+
+clickvisual/clickvisual:latest
+busyboxbusybox
 
