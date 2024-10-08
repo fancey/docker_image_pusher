@@ -10,3 +10,4 @@
 #prom/prometheus:main
 
 mysql:8.4
+alpine:latest
